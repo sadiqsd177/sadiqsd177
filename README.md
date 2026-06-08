@@ -1,4 +1,4 @@
-# Hi 👋 I'm Syed Sadiq
+# Hi I'm Syed Sadiq
 
 ### Software Developer | Full Stack Developer | AI/ML Enthusiast
 
