@@ -1,92 +1,35 @@
-<h1 align="center">Hi , I'm Syed Sadiq</h1>
+<h1 align="center">Hi 👋, I'm Syed Sadiq</h1>
 
-<h3 align="center">Software Developer | Full Stack Developer </h3>
+<h3 align="center">Software Developer | Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="[https://github.com/sadiqsd177/resume.git](https://github.com/sadiqsd177/resume/blob/4b17f0c27044fb0e14d5c2572c4a3ec6469fe5d9/Syed_Sadiq%20Resume%201.pdf)">
-    <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge" />
-  </a>
+<a href="https://github.com/sadiqsd177/resume/raw/main/Syed_Sadiq%20Resume%201.pdf">
+<img src="https://img.shields.io/badge/📄%20Resume-Download-red?style=for-the-badge">
+</a>
+</p>
+
+<p align="center">
+MERN Stack • Python • Flutter • TensorFlow • OpenCV
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech in Information Technology
+🎓 B.Tech Information Technology
 
 💼 Software Developer
 
-🌱 Full Stack Developer (MERN)
+🌱 Full Stack Developer
 
 🤖 AI/ML Enthusiast
 
 📱 Flutter Developer
 
-💡 Passionate about building scalable web applications, mobile apps, and AI-powered solutions.
-
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-Java • Python • C
-
-### Full Stack
-
-MongoDB • Express.js • React • Node.js
-
-### Mobile & AI
-
-Flutter • TensorFlow • Pandas • OpenCV
-
-### Tools
-
-Git • Firebase • Google Maps API
-
----
-
-## 🚀 Featured Projects
-
-### 📈 Autonomous AI Systems for Real-Time Financial Market Prediction
-
-* Python
-* TensorFlow
-* Pandas
-
-### 🛡️ SafeHer – Women's Safety Mobile Application
-
-* Flutter
-* Firebase
-* Google Maps API
-
-### 🎓 Student Dashboard Website
-
-* MERN Stack
-* Authentication
-* CRUD Operations
-
-### 🚗 Video-Based Abnormal Driving Behavior Detection
-
-* Python
-* OpenCV
-* TensorFlow
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiqsd177\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqsd177\&layout=compact)
-
----
-
-## 📫 Connect With Me
+## 📫 Contact
 
 📧 [ss9234034@gmail.com](mailto:ss9234034@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/syed-sadiq-
-
-🐙 GitHub: github.com/sadiqsd177
-
+💻 GitHub: github.com/sadiqsd177
