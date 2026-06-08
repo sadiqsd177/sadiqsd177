@@ -1,11 +1,3 @@
-# Hi I'm Syed Sadiq
-
-### Software Developer | Full Stack Developer 
-
-[![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge)](PASTE_YOUR_RESUME_LINK_HERE)
-
----
-
 <h1 align="center">Hi 👋, I'm Syed Sadiq</h1>
 
 <h3 align="center">Software Developer | Full Stack Developer | AI/ML Enthusiast</h3>
