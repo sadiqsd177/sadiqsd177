@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | Full Stack Developer </h3>
 
 <p align="center">
-  <a href="https://github.com/sadiqsd177/resume.git">
+  <a href="[https://github.com/sadiqsd177/resume.git](https://github.com/sadiqsd177/resume/blob/4b17f0c27044fb0e14d5c2572c4a3ec6469fe5d9/Syed_Sadiq%20Resume%201.pdf)">
     <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge" />
   </a>
 </p>
