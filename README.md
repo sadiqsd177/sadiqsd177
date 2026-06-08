@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Syed Sadiq</h1>
+<h1 align="center">Hi , I'm Syed Sadiq</h1>
 
-<h3 align="center">Software Developer | Full Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Software Developer | Full Stack Developer </h3>
 
 <p align="center">
-  <a href="https://github.com/sadiqsd177/resume">
+  <a href="https://github.com/sadiqsd177/resume.git">
     <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge" />
   </a>
 </p>
