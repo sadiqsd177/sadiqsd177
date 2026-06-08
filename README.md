@@ -1,6 +1,6 @@
 # Hi I'm Syed Sadiq
 
-### Software Developer | Full Stack Developer | AI/ML Enthusiast
+### Software Developer | Full Stack Developer 
 
 [![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge)](PASTE_YOUR_RESUME_LINK_HERE)
 
