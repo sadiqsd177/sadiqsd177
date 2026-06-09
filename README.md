@@ -22,8 +22,6 @@ MERN Stack • Python • Flutter • TensorFlow • OpenCV
 
 🌱 Full Stack Developer
 
-🤖 AI/ML Enthusiast
-
 📱 Flutter Developer
 
 
