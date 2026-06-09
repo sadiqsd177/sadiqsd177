@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Sadiq</h1>
+<h1 align="center">Hi, I'm Syed Sadiq</h1>
 
 <h3 align="center">Software Developer | Full Stack Developer | AI/ML Enthusiast</h3>
 
