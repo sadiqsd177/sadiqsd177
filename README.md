@@ -68,13 +68,9 @@ MERN Stack • Python • Flutter • TensorFlow • OpenCV
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sadiqsd177&show_icons=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiqsd177&show_icons=true&theme=github_dark)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqsd177&layout=compact" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqsd177&layout=compact&theme=github_dark)
 
 ---
 
